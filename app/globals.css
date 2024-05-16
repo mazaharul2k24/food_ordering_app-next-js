@@ -1,0 +1,17 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+.bgImage{
+  background:url("/beams.jpg");
+  width: auto;
+  height: auto;
+}
+.bgimageMember{
+  background:url("/burger.png");
+  background-repeat: no-repeat;
+  background-position: center;
+  width: auto;
+  height: auto;
+}
+
