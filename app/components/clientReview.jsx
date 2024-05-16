@@ -7,7 +7,7 @@ export default function clientReview() {
     <>
 <div className="grid grid-cols-1 md:grid-cols-5 py-3 px-3 ">
     <div className="left col-span-2 mt-4">
-        <Image height={400} width={300} src={Maza} className='mt-3' alt='maza pic' >
+         <Image height={400} width={300} src="https://png.pngtree.com/png-vector/20220807/ourmid/pngtree-man-avatar-wearing-gray-suit-png-image_6102786.png" unoptimized className='mt-3' alt='maza pic' >
         </Image>
     </div>
     <div className="right py-7 mt-7 col-span-3   ">
